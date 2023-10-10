@@ -1,0 +1,28 @@
+{
+  "name": "sit725-2023-t2-p4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heibrancelo/sit725-2023-t2-prac4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heibrancelo/sit725-2023-t2-prac4/issues"
+  },
+  "homepage": "https://github.com/heibrancelo/sit725-2023-t2-prac4#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "expresss": "^0.0.0",
+    "http": "^0.0.1-security",
+    "mongodb": "^4.4.1",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
